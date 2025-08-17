@@ -3,3 +3,4 @@
 | Module  | Ref                                                                        |
 | ------- | -------------------------------------------------------------------------- |
 | AWS VPC | https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest |
+| AWS ECS | https://registry.terraform.io/modules/terraform-aws-modules/ecs/aws/latest |
